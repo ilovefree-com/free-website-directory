@@ -1,5 +1,7 @@
 # Gaming Tools
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/gaming-tools/
+
 [⬆️ Back to README](./README.md)
 
 ## Gaming Tools | I Love Free

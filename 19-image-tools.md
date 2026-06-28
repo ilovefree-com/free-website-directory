@@ -1,5 +1,7 @@
 # Image Tools
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/image-tools/
+
 [⬆️ Back to README](./README.md)
 
 ## Image Tools | I Love Free

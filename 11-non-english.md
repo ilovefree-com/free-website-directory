@@ -1,5 +1,7 @@
 # Non-English
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/non-english/
+
 [⬆️ Back to README](./README.md)
 
 ## Non-English | I Love Free

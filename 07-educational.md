@@ -1,5 +1,7 @@
 # Educational
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/educational/
+
 [⬆️ Back to README](./README.md)
 
 ## Educational | I Love Free

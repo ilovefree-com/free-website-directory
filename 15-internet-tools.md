@@ -1,5 +1,7 @@
 # Internet Tools
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/internet-tools/
+
 [⬆️ Back to README](./README.md)
 
 ## Internet Tools | I Love Free

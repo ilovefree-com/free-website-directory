@@ -1,5 +1,7 @@
 # Artificial Intelligence
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/artificial-intelligence/
+
 [⬆️ Back to README](./README.md)
 
 ## Artificial Intelligence | I Love Free

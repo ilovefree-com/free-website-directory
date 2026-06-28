@@ -1,5 +1,7 @@
 # Downloading
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/downloading/
+
 [⬆️ Back to README](./README.md)
 
 ## Downloading | I Love Free

@@ -1,5 +1,7 @@
 # Linux / macOS
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/linux-macos/
+
 [⬆️ Back to README](./README.md)
 
 ## Linux / macOS | I Love Free

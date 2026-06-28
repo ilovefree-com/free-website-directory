@@ -1,5 +1,7 @@
 # Adblocking / Privacy
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/privacy/
+
 [⬆️ Back to README](./README.md)
 
 ## Adblocking / Privacy | I Love Free

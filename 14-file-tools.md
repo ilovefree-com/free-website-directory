@@ -1,5 +1,7 @@
 # File Tools
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/file-tools/
+
 [⬆️ Back to README](./README.md)
 
 ## File Tools | I Love Free

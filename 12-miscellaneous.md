@@ -1,5 +1,7 @@
 # Miscellaneous
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/miscellaneous/
+
 [⬆️ Back to README](./README.md)
 
 ## Miscellaneous | I Love Free

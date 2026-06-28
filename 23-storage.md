@@ -1,5 +1,7 @@
 # Storage
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/storage/
+
 [⬆️ Back to README](./README.md)
 
 ## Storage | I Love Free

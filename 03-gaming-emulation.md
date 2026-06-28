@@ -1,5 +1,7 @@
 # Gaming / Emulation
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/gaming/
+
 [⬆️ Back to README](./README.md)
 
 ## Gaming / Emulation | I Love Free

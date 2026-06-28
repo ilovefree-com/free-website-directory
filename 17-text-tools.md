@@ -1,5 +1,7 @@
 # Text Tools
 
+🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/text-tools/
+
 [⬆️ Back to README](./README.md)
 
 ## Text Tools | I Love Free
