@@ -25,7 +25,6 @@
 -   [pulse](https://473999.net/pulse) - Listen Together / Listening Parties
 -   [⁠Sonosano](https://github.com/KRSHH/Sonosano) - Self-Hosted P2P Lossless Music Player / Web App
 -   [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
--   [Hello123](https://hello123.com) - hello123 ai tools directory
 
 #### Streaming Sites
 
