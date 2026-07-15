@@ -246,7 +246,9 @@
 -   [DMS](https://github.com/anacrolix/dms) - Media Server
 -   [Emby](https://emby.media/) - Media Server
 -   [Fixarr](https://github.com/sachinsenal0x64/fixarr) - Media Server File Renamer
--   [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
+- [CompressMP4](https://compressmp4.org/) - Free browser-based MP4 compressor with percentage and target-size controls; videos are processed locally without uploading the source file.
+
+   [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 -   [Gerbera](https://gerbera.io/) - Media Server
 -   [Homehost](https://github.com/ridhwaans/homehost) - Media Server
 -   [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides
