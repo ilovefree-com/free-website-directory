@@ -236,7 +236,7 @@
 -   [VLC Slow Seek Fix](https://redd.it/os6f1q)
 -   [VLSub](https://github.com/exebetche/vlsub) - Sub Downloader
 
-### Media Servers249
+### Media Servers
 
 
 -   [Jellyfin](https://jellyfin.org/) - Media Server / Tools / Matrix
