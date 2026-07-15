@@ -10,6 +10,7 @@
 
 ### Gaming Tools
 
+-   [PalBreed](https://palbreed.org/) - Free Palworld 1.0 Breeding Calculator with Parent Combination Lookup
 -   [Game Pauser](https://madebyjase.com/game-pauser/) - Pause Unpausable Cutscenes
 -   [HowLongToBeat](https://howlongtobeat.com/) - Find Average Game Lengths
 -   [Library of Codexes](https://libraryofcodexes.com/) - Game Codex Library
