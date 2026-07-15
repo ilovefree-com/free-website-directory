@@ -1017,3 +1017,8 @@
 -   [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue) - Ingame Dialogue Dump
 
 [⬆️ Back to README](./README.md)
+
+
+#### VALORANT Tools
+
+- [Crosshair Maker](https://crosshairmaker.com/?utm_source=ilovefree.com&utm_medium=referral&utm_campaign=promotion) - Free browser-based VALORANT crosshair generator / Complete parameter controls / Static, movement, and firing previews / Multiple backgrounds / Presets / Profile code copy / No account required
