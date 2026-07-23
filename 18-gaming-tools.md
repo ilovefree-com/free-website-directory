@@ -155,6 +155,7 @@
 
 #### Game Maps
 
+-   [Subnautica 2 Wiki](https://subnautica2wiki.net/?utm_source=ilovefree.com&utm_medium=directory&utm_campaign=promotion) - Free interactive map, low-spoiler guides, items, blueprints, creatures, FAQ, and Early Access updates
 -   [bspview](https://sbuggay.github.io/bspview) - Explore Quake & GoldSRC Maps
 -   [Forgehub](https://www.forgehub.com/) - Halo Maps
 -   [Fortnite.gg](https://fortnite.gg/) - Fortnite Map, Guides, Skins, etc.
