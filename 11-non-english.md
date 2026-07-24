@@ -287,7 +287,7 @@
 -   [shuge](https://www.shuge.org/) - Rare / Ancient Books
 -   [Trtag](https://trtag.com/) - Movies / TV Encyclopedia
 -   [ttkan](https://www.ttkan.co/) - Books / Light-Novels
--   [tuotuoshu](https://tuotuoshu.com/) - Fiction
+-   [tuoverse](https://tuoverse.com/) - Fiction
 -   [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
 -   [yodu](https://www.yodu.org/) - Books / Light-Novels
 
