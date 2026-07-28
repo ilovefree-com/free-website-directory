@@ -672,3 +672,8 @@
 -   [Yotsuba Catalog](https://catalog.neet.tv/) - Yotsuba Archive
 
 [⬆️ Back to README](./README.md)
+
+
+### LinkedIn Tools
+
+- [Social Text Tools](https://socialtexttools.net/?utm_source=ilovefree.com&utm_medium=referral&utm_campaign=promotion) - Free LinkedIn text formatter / Unicode styles / Desktop and mobile previews / Character and word counts / Hook checks / Lighter Safe mode / No account required
