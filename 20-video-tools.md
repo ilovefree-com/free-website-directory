@@ -104,6 +104,7 @@
 -   [8mb.video](https://8mb.video/) - Compress / 2GB
 -   [autocompressor](https://autocompressor.net/) - Compress / 2GB
 -   [Compress Video Online](https://compress-video-online.com/) - Compress / Unlimited
+-   [Format Factory](https://formatfactory.io/) - Batch Convert / Compress / Merge / Extract Audio
 -   [MP4Compress](https://www.mp4compress.com/) - Compress / 500MB
 -   [Restream Tools](https://restream.io/tools) - Converter
 -   [Rotato](https://tools.rotato.app/) - Compress / 2GB
