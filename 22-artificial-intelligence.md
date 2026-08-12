@@ -55,6 +55,7 @@
 -   [⁠Woozlit](https://woozlit.com/) - Opus 4.7 / Sonnet 4.6/ Gemini 3.1 Pro / DeepSeek-v4-Pro / Multiple Models / ≈2000 Monthly / Sign-Up
 
 #### Specialized Chatbots
+-   [Chemistry AI](https://chemistryai.chat/) - AI Chemistry Solver / Step-by-Step Explanations / Image and Worksheet Input
 
 -   [⁠Ask Brave](https://search.brave.com/ask) - AI Search Engine
 -   [Google AI Mode](https://google.com/aimode) - AI Search Engine / Pro (Google Signup) / Fast (No Signup)
