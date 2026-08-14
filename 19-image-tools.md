@@ -196,6 +196,7 @@
 -   [⁠PicMix](https://www.picmix.com/) - Glitter Style GIF Creator
 -   [ScreenToGif](https://www.screentogif.com/) - GIF Recorder
 -   [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts
+-   [GIF Compressor](https://gifcompressor.net/) - Free Online GIF Compressor / Reduce GIF File Size
 
 #### Meme Tools
 
