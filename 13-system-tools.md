@@ -1,5 +1,4 @@
 # System Tools
--   [MouseTesting](https://mousetesting.org/) - Browser Mouse Tests for Buttons, Wheel Input, DPI, Polling Rate, and Cursor Smoothness
 
 🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/system-tools/
 
@@ -287,6 +286,7 @@
 -   [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 -   [Kmonad](https://github.com/kmonad/kmonad) - Keyboard Manager
 -   [⁠Mouse Tester](https://mousetester.io/) - Mouse Testing Tools
+-   [MouseTesting](https://mousetesting.org/) - Browser Mouse Tests for Buttons, Wheel Input, DPI, Polling Rate, and Cursor Smoothness
 -   [MoveMouse](https://github.com/sw3103/movemouse/) - Simulate User Activity
 -   [Raw Accel](https://github.com/RawAccelOfficial/rawaccel) - Mouse Acceleration Tool
 -   [StrokeIt](https://www.tcbmi.com/strokeit/) - Mouse Gestures
