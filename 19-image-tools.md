@@ -172,6 +172,7 @@
 -   [Pixel Reconstructor](https://i-win.neocities.org/pixel/) - ⁠Pixel Art Upscalers
 -   [Pixel Snapper](https://www.spritefusion.com/pixel-snapper) - Auto-Fix Pixel Art into Grids
 -   [PixelartVillage](https://pixelartvillage.com/) - Image to Pixel Art Converters
+-   [PixelArtBase](https://pixelartbase.com/) - Image to Pixel Art Converter
 -   [Pixelated](https://pixelated.vercel.app/) - Pixel Art Editor
 -   [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Sprite Generator
 -   [Pixelorama](https://pixelorama.org/) - 2D Sprite Editor
