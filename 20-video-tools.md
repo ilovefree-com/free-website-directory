@@ -109,6 +109,7 @@
 -   [Rotato](https://tools.rotato.app/) - Compress / 2GB
 -   [Video Express Converter](https://vc.germanov.dev/)
 -   [VideoConverter](https://www.movavi.com/video-converter/) - Converter
+-   [Video2Jpg](https://video2jpg.com/) - Video to JPG PNG WebP Frame Converter / In-Browser No Uploads / ZIP Download - Free
 -   [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
 -   [YouCompress](https://www.youcompress.com/) - Compress / 500MB
 
