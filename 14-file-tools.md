@@ -75,6 +75,7 @@
 -   [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter
 -   [videoutils](https://www.videoutils.com/) - Online / File Converter / 500MB
 -   [Xconvert](https://www.xconvert.com/) - Online / File Converter / 400MB
+-   [AhaConvert](https://ahaconvert.com/) - Online / File Converter / 300+ Formats
 
 #### File Managers
 
