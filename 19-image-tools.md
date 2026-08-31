@@ -554,6 +554,8 @@
 -   [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
 -   [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 -   [Swapface](https://swapface.org/) - Face Swapping
+-   [DeepSwapAI](https://deepswapai.com/) - AI Face Swap for Photos / Videos / GIFs
+-   [FaceSwapAI](https://faceswapai.com/) - AI Face Swap for Photos / Videos / GIFs
 -   [⁠Universal Sig Rotator](https://sig.grumpybumpers.com/) - Rotates Image for Forum Signatures / Site Banners
 -   [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
 -   [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
