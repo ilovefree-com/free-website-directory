@@ -341,6 +341,7 @@
 #### Cloud Storage
 
 -   [Google Drive](https://drive.google.com/) - 15GB / 2 Years / ~$3.33 (5TB Google AI Pro)
+-   [HTML Hoster](https://htmlhoster.com/) - Free hosting for HTML pages, Markdown, PDFs, images & ZIP (public URL, no API key)
 -   [MEGA](https://mega.io/) - 20GB / 3 Months / ~$1.72 (20TB Pro III)
 -   [1Cloud File](https://1cloudfile.com/) - 10GB
 -   [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB / ~$6
