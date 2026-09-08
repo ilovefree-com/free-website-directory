@@ -1615,6 +1615,7 @@
 -   [Dizi Film Botu](https://t.me/Difix9Bot) - Movies / TV / Anime / Sub / Dub / 4K / 2K / 1080p / Documentaries
 -   [FullHDFilmizlesene](https://www.fullhdfilmizlesene.tv/) - Movies / Sub / Dub / 1080p
 -   [Hdfilmcehennemi](https://www.hdfilmcehennemi.nl/) - Movies / TV / Sub / Dub / 1080p
+-   [AniHub](https://anihub.com.tr/) - Anime / Turkish Subs
 -   [OpenAnime](https://openani.me/) - Anime
 -   [Yabancıdizi](https://yabancidizi.so/) - Movies / TV / Sub / Dub / 1080p
 -   [AnimeciX](https://anm.cx/) - Anime
