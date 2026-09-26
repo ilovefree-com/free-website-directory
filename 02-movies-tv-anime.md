@@ -838,8 +838,13 @@
 -   [TVMaze](https://www.tvmaze.com/) - TV / Anime
 -   [Upcoming Anime Dubs](https://myanimelist.net/forum/?topicid=1692966) - Anime Dub Release Trackers
 -   [WhenToStream](https://www.whentostream.com/) - Streaming Release News / Updates
-
 ### Subtitle Tools
+- [Subtitle Studio / Convert](https://convert.jamack.net/) - Free browser batch subtitle converter (SMI/SRT/VTT/ASS/Whisper JSON + OCR); no signup
+- [Subtitle Spell](https://spell.jamack.net/) - Free broadcast/OTT-style subtitle cleanup (punctuation, spacing, spam watermark removal)
+- [Dual Subtitles](https://dual.jamack.net/) - Free bilingual dual-subtitle merge (top/bottom SRT/VTT/SMI/ASS)
+- [SubSync Player](https://subsync.jamack.net/) - Free local video+subtitle player with P2P sync to other devices
+
+
 
 -   [Substital](https://substital.com/) - External Subtitle Extensions
 -   [Subtitle Edit](https://www.nikse.dk/subtitleedit) - Subtitle Editors
