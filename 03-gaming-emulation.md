@@ -568,6 +568,7 @@
 
 ### Browser Games
 
+-   [ArrowGame](https://arrowgame.app/) - Free Arrow Logic Puzzle / Daily Boss Challenge / 1,000 Levels / No Sign-Up or Download
 -   [Allchemy](https://allchemy.io/) - Infinite Item Crafting Games
 -   [Marble Blast Gold Web](https://marbleblast.vaniverse.io/) - Browser Marble Blast
 -   [Mario Kart PC](https://mkpc.malahieude.net/mariokart.php) - Browser SNES Style Mario Kart / Multiplayer / Custom Maps
