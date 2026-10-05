@@ -34,6 +34,7 @@
 -   [⁠RapidRAW](https://www.getrapidraw.com/)
 
 #### Online Editors
+- [PicCollages](https://piccollages.com/) - Free browser-based photo collage maker with grid layouts, spacing, borders, text and stickers; local editing and direct export need no account, while optional account work-saving uploads photos.
 
 -   [Lunapic](https://lunapic.com/) - Multi-Tool
 -   [Photopea](https://www.photopea.com/) - Photoshop Alt
