@@ -490,6 +490,7 @@
 -   [MakeHuman](https://static.makehumancommunity.org/) - 3D Humanoid Modeler
 -   [Meshy.ai](https://www.meshy.ai/) - AI 3D Model Generators
 -   [ModelViewer](https://modelviewer.dev/) - 3D Model Viewers
+-   [Fomrix](https://fomrix.com/glb-viewer) - Free browser GLB viewer / Local preview / No account required
 -   [PoseMy.art](https://app.posemy.art/) - Posing Tools
 -   [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 -   [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
