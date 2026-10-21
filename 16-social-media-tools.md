@@ -211,6 +211,7 @@
 
 -   [CHPic](https://chpic.su/) - Telegram Sticker / Emojis
 -   [ComBot Groups](https://combot.org/top/telegram/groups) - Top Telegram Groups Index
+-   [OpenSparta](https://opensparta.com/en) - Telegram operations workspace for discovering relevant conversations and managing connected accounts and proxies; its free tier includes account and proxy management for up to 50 connected accounts, while premium modules are optional.
 -   [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
 -   [tasra](https://the-eye.eu/tasra/) - Telegram Channel Archive
 -   [TDirectory](https://tdirectory.me/) - Telegram Channel Indexes
