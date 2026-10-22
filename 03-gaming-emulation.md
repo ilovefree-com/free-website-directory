@@ -865,6 +865,7 @@
 -   [⁠AniGuessr](https://aniguessr.com/) - Anime Guessing Game
 -   [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 -   [Bestiefy](https://bestiefy.com/) - Friend Quizzes
+-   [BestieQuiz](https://bestiequiz.com/) - Free online friendship quiz maker to create personalized BFF quizzes, challenge friends, and compare scores on a leaderboard.
 -   [BoxOfficeGA](https://boxofficega.me/) - Box Office Guessing
 -   [Buzzinga](https://buzzinga.io/) - Jeopardy Creator
 -   [Catfishing](https://catfishing.net/) - Wiki Article Guessing Game
