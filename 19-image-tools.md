@@ -244,6 +244,7 @@
 #### Icons / Avatars
 
 -   [Alphacoders Avatars](https://avatars.alphacoders.com/) - PFPs / Avatars
+-   [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - Export App Icon Sizes for iOS, Android & Web
 -   [Picrew](https://picrew.me/en/) - Avatar Creator
 -   [Formia](https://www.formia.so/) - 2D to 3D Icon Converter
 -   [⁠FreeLogoMaker](https://myfreelogomaker.com/) - Logo Creators
