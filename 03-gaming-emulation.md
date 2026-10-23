@@ -424,6 +424,7 @@
 -   [Puzzle Loop](https://www.puzzle-loop.com/) - Multiple Puzzle Games
 -   [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw) - Multiplayer Jigsaws
 -   [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
+-   [Plain Game](https://plaingame.fun/) - Daily Estimation Puzzle / Number Guessing
 -   [⁠Queens Game](https://queensgame.io/) - N-Queens Problem Inspired Puzzle
 -   [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 -   [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
