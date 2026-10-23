@@ -341,6 +341,7 @@
 
 ### AI Indexes
 
+-   [AI Compare Ninja](https://www.aicompare.ninja/en/) - AI Software Research / Prompts, Skills & Agent Guides / Subscription & API Cost Calculators / No Sign-Up
 -   [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 -   [Google Labs](https://labs.google/) - Google AI Experiments
 -   [⁠LLM Explorer](https://llm-explorer.com/) - LLM Databases / Indexes
