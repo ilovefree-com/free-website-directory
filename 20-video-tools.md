@@ -135,6 +135,7 @@
 -   [⁠MeldStudio](https://meldstudio.co/) - Live Stream Manager
 -   [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) - Stream Audio / Video Enhancer
 -   [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
+-   [Time Overlay](https://timeoverlay.co/) - Free browser countdown timer overlays for video and streams / Transparent PNG sequences and WebM with alpha for Premiere, DaVinci Resolve, OBS and Streamlabs / Permanent free core
 -   [Owncast](https://owncast.online/) - Self-Hosted Live Streaming
 -   [ppInk](https://github.com/PubPub-zz/ppInk/) - Screen Annotation
 -   [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
