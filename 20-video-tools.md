@@ -111,6 +111,7 @@
 -   [VideoConverter](https://www.movavi.com/video-converter/) - Converter
 -   [VideoSmaller](https://www.videosmaller.com/) - Compress / 500MB
 -   [YouCompress](https://www.youcompress.com/) - Compress / 500MB
+-   [YouTube GIF Comments](https://youtubegifcomments.com/) - Free in-browser video to GIF maker and YouTube GIF comment guides / Permanent free
 
 #### FFmpeg Tools
 
