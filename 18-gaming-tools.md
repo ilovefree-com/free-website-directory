@@ -177,6 +177,7 @@
 -   [⁠MouseCTRL](https://mousectrl.com/) - Mousepad Comparison Chart
 -   [Speedrun](https://www.speedrun.com/) - Speedrunning Streams, Leaderboards, Resources, etc.
 -   [/codmeta/](https://rentry.co/codmeta) - Call of Duty Loadouts / Meta
+-   [Azeroth Survivors Build Planner](https://azerothsurvivors.app/build-calculator/) - Independent Fan Build Planner / [Community Builds](https://azerothsurvivors.app/build-library/) / Free Core Tools / No Account Required
 -   [⁠Balatro Wiki](https://balatrowiki.org/) - Community-Maintained Balatro Wiki / Card Database
 -   [Bazaar DB](https://bazaardb.gg/) - The Bazaar Wiki / Guides
 -   [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
