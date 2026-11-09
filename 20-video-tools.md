@@ -381,6 +381,7 @@
 -   [LoopVid](https://loopvid.kastden.org/) - Loop Videos
 -   [Omniclip](https://omniclip.app/)
 -   [Panzoid](https://panzoid.com/)
+-   [Scissor Film](https://film.scissor.studio/) - Video Editor - On Device/No Account 
 -   [⁠Tooscut](https://tooscut.app/)
 -   [Video Cutter](https://video-cutter-js.com/)
 -   [Video2Edit](https://www.video2edit.com/) - Multitool
