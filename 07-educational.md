@@ -132,7 +132,7 @@
 
 -   [BOINC](https://boinc.berkeley.edu/) - Donate Idle GPU + GPU Resources to Scientific Research / Manager / Number Theory / Humanitarian
 -   [LabXchange](https://www.labxchange.org/) - Interactive Science Simulations
--   [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Free Interactive Astronomy: Moon Phases, Earth Seasons, Cosmic Scale (No Sign-In)
+-   [Space Atlas](https://spaceatlasedu.org/) - Moon phases, Earth seasons and cosmic-scale models for parent- or teacher-guided exploration. Uses GA4 and AdSense; unsupervised use by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
 -   [TIB AV-Portal](https://av.tib.eu/) - Science Videos
 
 #### Physics
