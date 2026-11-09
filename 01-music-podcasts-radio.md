@@ -122,6 +122,7 @@
 -   [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
 
 #### Podcast Streaming
+-   [Arcmira](https://arcmira.com) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. / Free Tier / [API Docs](https://arcmira.com/docs)
 
 -   [Pocket Casts](https://play.pocketcasts.com/discover) - Podcasts / Desktop App
 -   [Spotify Podcasts](https://open.spotify.com/browse/podcasts) - Podcasts / SponsorBlock, / Companion / RSS / Video Download / Audio Download
