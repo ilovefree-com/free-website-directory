@@ -71,6 +71,7 @@
 -   [AppDevTools](https://appdevtools.com/)
 -   [Coders Tool](https://www.coderstool.com/)
 -   [devina](https://devina.io/)
+-   [MJJ Tools](https://mjj.tools/) - Free online calculators, converters, generators and developer utilities / No Sign-Up
 -   [Sharevb IT Tools](https://sharevb-it-tools.vercel.app/)
 -   [Web Toolbox](https://web-toolbox.dev/en)
 
