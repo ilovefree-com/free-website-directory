@@ -558,6 +558,7 @@
 -   [MC Icons](https://mcicons.ccleaf.com/) - Minecraft Icon Search
 -   [MC Utils](https://mcutils.com/) - Web-Based Minecraft Toolkits
 -   [MCDOC](https://mcdoc.site/) - Minecraft Tools & Unlockers
+-   [Minecraft Enchantment Calculator](https://enchantmentcalculator.online/) - Enchanting Table Odds / Anvil Order Planner
 -   [Minecraft Java Servers](https://dankware.alwaysdata.net/minecraft-java-servers) - Server Lists
 -   [Minecraft Timeline](https://minecraft-timeline.github.io/) - Minecraft Update History Timeline
 -   [⁠Minemev](https://minemev.com/) - Minecraft Build / Farm Schematics
