@@ -122,6 +122,8 @@
 -   [WorldConcertHall](https://www.worldconcerthall.com/en/schedule-list/) - Concert Hall / Opera House Live Streams
 
 #### Podcast Streaming
+-   [Podcast Shelf](https://podcastshelf.com/) - Chinese and English Podcast Reading / Free Full Transcripts and Selected In-Depth Reads / Membership for Additional In-Depth Content
+
 
 -   [Pocket Casts](https://play.pocketcasts.com/discover) - Podcasts / Desktop App
 -   [Spotify Podcasts](https://open.spotify.com/browse/podcasts) - Podcasts / SponsorBlock, / Companion / RSS / Video Download / Audio Download
