@@ -1,3 +1,4 @@
+
 # System Tools
 
 🌐 **View on iLoveFree.com**: https://www.ilovefree.com/free-website-navigation/system-tools/
@@ -401,6 +402,9 @@
 -   [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version
 
 #### Wallpapers
+-   [AppleWalls](https://applewalls.com/) - Stock iPhone, iPad and Mac Wallpapers / Free Previews and Downloads / Personal Backgrounds
+-   [PhWalls](https://phwalls.com/) - Stock Phone and Desktop Wallpapers by Brand and Device / Free Previews and Downloads
+
 
 -   [LWP](https://github.com/jszczerbinsky/lwp) - Live Wallpapers
 -   [Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)
