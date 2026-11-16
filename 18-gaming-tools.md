@@ -840,6 +840,7 @@
 -   [osu! Game Rsources](https://resources.osucord.moe/) - Osu! Resources
 -   [Palworld.gg](https://palworld.gg/) - Palworld Databases
 -   [Ready or Not Doc](https://docs.google.com/spreadsheets/d/1d89lpFDA9lo_v13iBlnhtuA6DvuUnKfPaeo0d4RBGJ4/) - Ready or Not Info
+-   [ROB RUN Wiki](https://www.robrun-game.com/) - Free player guides and a searchable Looty Bay map for ROB RUN
 -   [Rust Clash](https://wiki.rustclash.com/) - Rust Info Database / Wiki
 -   [Satisfactory Calculator](https://satisfactory-calculator.com/)
 -   [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
