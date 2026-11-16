@@ -1189,6 +1189,7 @@
 -   [Frantic Fanfic](https://franticfanfic.com/) - Fanfiction Chat Game
 -   [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
 -   [Monkey](https://www.monkey.app/) - Random Chat Rooms
+-   [MOMENT](https://chat.shangban8.com/en/) - Live Anonymous Message Wall / No Signup
 -   [MyCast](https://www.mycast.io/) - Dream Casting Discussions
 -   [PenPal World](https://www.penpalworld.com/) - Pen Pal Community
 -   [⁠Perfectly Imperfect](https://www.pi.fyi/) - Oldschool Internet Style Social Media Sites
