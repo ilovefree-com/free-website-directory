@@ -431,6 +431,7 @@
 -   [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
 -   [⁠ThinkyGames](https://thinkygames.com/games/?free=true&platforms=Web) - Indie Puzzle Games
 -   [UsDoku](https://www.usdoku.com/) - Multiplayer Sudoku
+-   [Word Chain Daily](https://wordchaindaily.com/) - Daily Phrase / Compound Word Puzzle / No Signup
 
 #### Rubiks Cube
 
