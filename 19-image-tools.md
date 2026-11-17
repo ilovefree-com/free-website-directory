@@ -9,6 +9,7 @@
 > Free image editors, online design tools, stock photos, 3D models, photography tools, and image creation resources curated by the FMHY community.
 
 ### Image Editing
+- [Text Photo AI](https://textphotoai.com/) - Free photo captions without signup, with browser-based editing and PNG download; AI text replacement and removal require paid credits.
 
 -   [Canvas](https://www.nvidia.com/en-us/studio/creative-side-hustle/) - Turn Simple Art into Photorealistic Landscapes
 -   [Croppola](https://croppola.com/) - Cropping Tools
