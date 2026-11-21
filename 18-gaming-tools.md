@@ -688,6 +688,7 @@
 -   [MinecraftSkins](https://www.minecraftskins.com/) - Minecraft Skins
 -   [MSkins](https://mskins.net/en) - Skin Grabber
 -   [NeedCoolerShoes](https://needcoolershoes.com/) - Minecraft Skin Editors
+-   [BlockSkinLab](https://www.blockskinlab.com/) - Convert Images to Minecraft Skins and Edit in 3D (Free, No Signup)
 -   [PVPRP](https://pvprp.com/) - PVP Texture Packs / Auto-Download Script
 -   [ShaderLABS](https://shaderlabs.org/wiki/Main_Page) - Shader Comparisons and Resources
 -   [ShadersMods](https://shadersmods.com/) - Minecraft Shaders
