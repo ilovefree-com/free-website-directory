@@ -823,6 +823,7 @@
 -   [AC Letter Scorer](https://hunter-r.com/ac-letter-scorer/) - Animal Crossing (GCN) Letter Scorer
 -   [ACNH.Directory](https://acnh.directory/) - Animal Crossing: New Horizons Resources / Guides
 -   [Among Us Modding](https://markbox.cc/amongusmodding)
+-   [Anime Crusaders X Wiki](https://anime-crusaders-x.com/) - Roblox tower defense unit stats, tier rankings, and code rewards
 -   [Asphalt Database](https://asphalt9.info/) - Asphalt Legends Unite Database / Wiki
 -   [Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania) - Trackmania Resources
 -   [Braytech](https://bray.tech/) - Destiny 2 Stats
