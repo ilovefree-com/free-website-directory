@@ -909,6 +909,7 @@
 -   [MixMods](https://www.mixmods.com.br/) - GTASA Mods
 -   [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 -   [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC
+-   [GTA Characters](https://gtacharacter.com/) - Free GTA Character Profiles / NPC Database
 
 #### Doom Tools
 
