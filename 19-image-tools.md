@@ -10,6 +10,7 @@
 
 ### Image Editing
 
+-   [StyleSVG](https://stylesvg.com/) - Edit, optimize, resize, and convert SVG files in the browser. The standalone SVG tools are free without an account; clean exports from the separate AI vectorizer are paid.
 -   [Canvas](https://www.nvidia.com/en-us/studio/creative-side-hustle/) - Turn Simple Art into Photorealistic Landscapes
 -   [Croppola](https://croppola.com/) - Cropping Tools
 -   [GradientArt](https://gra.dient.art/) - Gradient Editor
