@@ -303,6 +303,7 @@
 -   [SteamDB](https://steamdb.info/) - Steam Insight Tools / Game Charts
 -   [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension
 -   [⁠EGData](https://egdata.app/) - Epic Store Sales
+-   [GoCDKey](https://gocdkey.nl/data) - Free Dutch game price data with euro offers, activation platforms and seller types
 -   [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Confirmation
 -   [Steam Currency Converter](https://github.com/Solidet-com/steam-currency-converter)
 -   [Steam Link Dropdown](https://greasyfork.org/en/scripts/523078) - Add Piracy Site Links to Steam Store
