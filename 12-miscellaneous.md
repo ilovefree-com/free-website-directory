@@ -718,7 +718,8 @@
 -   [Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions to Ask Potential Employers
 -   [80,000 Hours](https://80000hours.org/) - Explore Career Options
 -   [Annual Reports](https://www.annualreports.com/) - Annual Company Reports
--   [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
+- [BuildReceipt](https://buildreceipt.com) - Free receipt generator in the browser — no sign-up, no watermark, PDF/PNG/JPG export.
+- -   [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
 -   [Cody](https://meetcody.ai/) - Company Management AI
 -   [Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) - Interview Questions Index
 -   [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
