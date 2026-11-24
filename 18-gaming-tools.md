@@ -909,6 +909,8 @@
 -   [MixMods](https://www.mixmods.com.br/) - GTASA Mods
 -   [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 -   [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTA:VC
+-   [Lucia GTA](https://luciagta.net/) - Fan-Made GTA VI Lucia Character Resource
+-   [Jason GTA](https://jasongta.com/) - Fan-Made GTA VI Jason Character Resource
 
 #### Doom Tools
 
