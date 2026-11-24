@@ -175,6 +175,7 @@
 -   [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
 -   [Manufacturer Specific](https://rentry.org/ekrw4) - Manufacturer-Specific Mobile Tools
 -   [Plexus](https://plexus.techlore.tech/) - De-Googled Device Compatibility
+-   [SpeakerEject](https://speakereject.com/) - Free Browser Speaker and Headphone Tests / WAV Downloads
 -   [Swappa](https://swappa.com/imei) - IMEI, MEID, ESN Checker
 -   [TaskManager](https://github.com/RohitKushvaha01/TaskManager) - Task Manager for Android
 -   [Techbone](https://www.techbone.net/) - Android Usage Guide
