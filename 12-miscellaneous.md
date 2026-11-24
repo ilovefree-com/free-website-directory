@@ -378,6 +378,8 @@
 -   [FloodMap](https://www.floodmap.net/) - Sea Level / Flood Map
 -   [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Maps
 -   [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forecast Map
+- [Pollen Atlas](https://www.pollenatlas.com) - Free pollen count, air quality and weather service with location-based pollen heatmaps, Total Pollen Index forecasts, and an allergist directory.
+-   
 -   [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine
 -   [Snow Forcast](https://www.snow-forecast.com/maps) - Snow Forecast Maps
 -   [Supercell Wx](https://supercellwx.net/) - Visualize / Archive NEXRAD Data + Weather Alerts
