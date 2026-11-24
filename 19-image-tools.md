@@ -575,6 +575,7 @@
 -   [optimize.photos](https://optimize.photos/) - Batch Compressor
 -   [PNGQuant](https://pngquant.org/) - PNG Compression Software
 -   [TinyPNG](https://tinypng.com/) - Batch Compressor / 20MB Upload
+-   SnapShrink - Batch image compressor / Free 10 images per session, no signup, files never leave the browser
 
 #### Image Optimization
 
