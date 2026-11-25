@@ -1569,3 +1569,7 @@
 -   [WikiNearby](https://wikinearby.toolforge.org/) - Location Search
 
 [⬆️ Back to README](./README.md)
+
+### Arduino
+
+- [Learn Arduino](https://learnarduino.org/) - Interactive 3D Arduino Uno, circuit simulations and example code
