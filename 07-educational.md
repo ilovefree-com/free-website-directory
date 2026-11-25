@@ -74,6 +74,7 @@
 -   [LinkedIn\_Learning](https://t.me/linkedin_learning) - LinkedIn Courses
 
 ### Learning Sites
+-   [Design dir](https://designtoscale.org/) - Animated system design lessons; first 2 free, lifetime access $5.
 
 -   [PhET](https://phet.colorado.edu/) - Interactive Lessons
 -   [r/coolguides](https://reddit.com/r/coolguides/) - Guides & Tutorials
