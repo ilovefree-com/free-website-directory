@@ -165,6 +165,7 @@
 -   [AoPS Alcumus](https://artofproblemsolving.com/alcumus) - Adaptive Problem Solving
 -   [BetterExplained](https://betterexplained.com/) - Math Guides / Courses
 -   [Manim](https://www.manim.community/) - Generate Explanatory Math Videos / Videos / Difference Between Versions
+-   [ModuMath: Work Out the Path](https://huggingface.co/spaces/lmo0317/modumath-path-practice) - Free interactive garden-path area exercise with step-by-step hints and a second problem / No signup
 -   [Number Academy](https://number.academy/) - Encyclopedia of Numbers
 -   [Open Source Society University](https://github.com/ossu/math) - Math Roadmap
 -   [WolframAlpha](https://www.wolframalpha.com/) - Searchable Knowledge Base / Mobile (search)
