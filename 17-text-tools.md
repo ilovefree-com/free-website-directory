@@ -547,6 +547,7 @@
 -   [FontGenerator.cc](https://fontgenerator.cc/)
 -   [FontGenerator.cool](https://fontgenerator.cool/)
 -   [FontGenerator.design](https://fontgenerator.design/)
+-   [FontQuill](https://fontquill.com/)
 -   [Text-Generator](https://text-generator.app/)
 -   [TextEditor](https://texteditor.com/)
 
