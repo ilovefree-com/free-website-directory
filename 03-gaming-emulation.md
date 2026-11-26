@@ -465,6 +465,8 @@
 
 #### Word Games
 
+-   [NYT Spelling Bee](https://nytspellingbee.me/) - Free daily seven-letter word puzzle
+
 -   [Woogles](https://woogles.io/) - Scrabble
 -   [Wordle](https://www.nytimes.com/games/wordle/index.html) - Original Wordle
 -   [Wordle Analyzer](https://wordle-analyzer.com/)
