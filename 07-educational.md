@@ -1421,6 +1421,7 @@
 -   [Niche](https://www.niche.com/) - University / School Comparisons
 -   [RateMyDorm](https://ratemydorm.com/) - College Dorm Reviews
 -   [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
+-   [Robotics Lab](https://robotics-lab.si/) - 3D Robot Circuit Learning App
 -   [⁠Scholarship Roar](https://scholarshiproar.com/) - Scholarship Database
 -   [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 -   [Wolfram Cloud](https://www.wolframcloud.com/) - Computational Intelligence
