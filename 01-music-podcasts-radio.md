@@ -587,6 +587,7 @@
 -   [SecondHandSongs](https://secondhandsongs.com/) - Cover, Sample and Remix Databases
 -   [⁠Six Degrees of Hip-Hop](https://www.sixdegreesofhiphop.com/)
 -   [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Databases
+-   [StagePeek](https://stagepeek.live/) - 2D/3D Concert Seat-View Simulator (Free First Seat, Freemium)
 -   [Talpa Search](https://www.talpasearch.com/) - Find Albums by Describing Them
 -   [TheIndieRockPlaylist](https://www.theindierockplaylist.com/) - Indie Rock Archive
 -   [TrackID](https://trackid.net/) - Live Set Tracklist Databases
