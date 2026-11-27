@@ -13,6 +13,7 @@
 -   [LibRedirect](https://libredirect.github.io/) - Frontend Redirect Extensions
 -   [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 -   [SocialBlade](https://socialblade.com/) - Social Media Stats
+- [AdGrowth Lab](https://adgrowth-lab.github.io/) - Free TikTok Ads credit calculator and diagnostic tools.
 -   [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
 -   [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 -   [ExportComments](https://exportcomments.com/) - Export Social Media Comments
