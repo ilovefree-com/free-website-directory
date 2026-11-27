@@ -1197,6 +1197,7 @@
 -   [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
 -   [r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/) - List of Subreddits
 -   [Resetera](https://www.resetera.com/) - Gaming Forums
+-   [ShuffleChat](https://shufflechat.app/) - Free one-on-one random text chat without signup or a camera
 -   [Status.Cafe](https://status.cafe/) - Share Current Status
 -   [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 -   [TwoCansAndAString](https://twocansandstring.com/) - Anonymous Q&A
