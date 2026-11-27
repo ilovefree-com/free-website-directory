@@ -731,6 +731,7 @@
 -   [brozzler](https://github.com/internetarchive/brozzler) - Web Crawler
 -   [Crawl4AI](https://github.com/unclecode/crawl4ai) - LLM-Friendly Scraper / Crawler
 -   [Crawly](https://crawly.diffbot.com/) - Online Scraper
+-   [GMapsScraper](https://gmapsscraper.app/) - Google Maps Business Scraper / CSV, Excel, JSON Export / 50 Free Results per Month
 -   [grab-site](https://github.com/ArchiveTeam/grab-site) - ArchiveTeam Web Crawler
 -   [Heritrix](https://heritrix.readthedocs.io/) - Internet Archive's Web Crawler
 -   [⁠Scrapling](https://github.com/D4Vinci/Scrapling) - Web Scraper
