@@ -142,6 +142,7 @@
 -   [N64Recomp Launcher](https://github.com/SirDiabo/N64RecompLauncher) - Launch / Manage Recompiled N64 Games ⁠
 -   [NBlood](https://github.com/NBlood/NBlood) - Reverse-Engineered Duke Nukem Ports
 -   [PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports) - Game Decompilations / Ports
+-   [PCPortDB](https://pcportdb.com/) - Unofficial Console-to-PC Ports Database / Decompilations, Static Recompilations & Reverse-Engineered Engines
 -   [Pixel Gun World](https://pgun.rilisoft.info/) - Pixel Gun 3D Revivals / PC Ports
 -   [RetroReversing](https://www.retroreversing.com/source-code/decompiled-retail-console-games) - Game Decompilations / Ports
 -   [Ship of Harkinian](https://www.shipofharkinian.com/) - Ocarina of Time Port
